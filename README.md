@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="assets/jorge-cat.png" alt="Jorge — cat illustration" width="390" />
 
+<div align="center">
   # Hi there, I'm Jorge 👋
 
   **Data Scientist · ML Engineer · NLP Researcher**
@@ -11,8 +10,11 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jorge-arturo-uc-torres-0178111b/)
   [![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/Slowpokeislife)
   <!-- Add Discord when you have your user ID: [![Discord](https://img.shields.io/badge/Discord-111827?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.com/users/YOUR_USER_ID) -->
-</div>
 
+
+
+  <img src="assets/jorge-cat.png" alt="Jorge — cat illustration" width="390" />
+</div>
 ### Technologies I use
 
 **Languages**  
