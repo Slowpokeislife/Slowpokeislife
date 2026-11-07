@@ -29,7 +29,7 @@
 
 ### A few projects
 
-- **[Classical Nahuatl Translation](https://github.com/Slowpokeislife/Traductor-nahuatl))** — Adapting NLLB-200 (1.3B) for low-resource machine translation using PEFT.
+- **[Classical Nahuatl Translation](https://github.com/Slowpokeislife/Traductor-nahuatl)** — Adapting NLLB-200 (1.3B) for low-resource machine translation using PEFT.
 - **[DocuLens AI](https://github.com/Slowpokeislife/doculens-ai)** — Enterprise RAG assistant for searching and understanding documents with LLMs.
 - **Código Azul** — Android emergency-alert system designed for a special education setting.
 - **[Dicliva App](https://github.com/Slowpokeislife/Dicliva-App)** — Desktop software for clinical laboratory workflows.
