@@ -17,7 +17,7 @@
 
 
 </div>
-###T echnologies I use
+### Technologies I use
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-1C2432?style=flat-square&logo=python&logoColor=3776AB) ![C](https://img.shields.io/badge/C-1C2432?style=flat-square&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/C++-1C2432?style=flat-square&logo=cplusplus&logoColor=00599C) ![JavaScript](https://img.shields.io/badge/JavaScript-1C2432?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Kotlin](https://img.shields.io/badge/Kotlin-1C2432?style=flat-square&logo=kotlin&logoColor=7F52FF) ![Visual Basic](https://img.shields.io/badge/Visual_Basic-1C2432?style=flat-square)
