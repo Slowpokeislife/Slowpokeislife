@@ -3,7 +3,7 @@
   <img src="assets/jorge-cat.png" alt="Jorge — cat illustration" width="390" />
 
   
-  # Hi there, I'm Jorge 👋
+  # Hi there, I'm Jorge
 
   **Data Scientist · ML Engineer · NLP Researcher**
 
