@@ -34,9 +34,20 @@
 
 ### A few projects
 
-- **[Classical Nahuatl Translation](https://github.com/Slowpokeislife/Traductor-nahuatl)** — Adapting NLLB-200 (1.3B) for low-resource machine translation using PEFT.
-- **[DocuLens AI](https://github.com/Slowpokeislife/doculens-ai)** — Enterprise RAG assistant for searching and understanding documents with LLMs.
-- **Código Azul** — Android emergency-alert system designed for a special education setting.
-- **[Dicliva App](https://github.com/Slowpokeislife/Dicliva-App)** — Desktop software for clinical laboratory workflows.
+- **[Classical Nahuatl Translation](https://github.com/Slowpokeislife/Traductor-nahuatl)** — Fine-tuning NLLB-200 (1.3B) for low-resource machine translation using PEFT techniques, including LoRA, LISA, and layer freezing.
+- **Código Azul** *(Private Project)* — Android emergency-alert system designed for a special education setting, using Firebase and Cloudflare for real-time notifications.
+- **[FloodScope AI](https://github.com/Slowpokeislife/floodscope-ai)** — Satellite imagery analysis and deep learning for flood detection and disaster risk monitoring.
+- **[PokePonche Predict](https://github.com/Slowpokeislife/PokePonche-Predict)** — Machine learning for predicting Pokémon GO community event attendance using historical check-in data.
+- **[DocuLens AI](https://github.com/Slowpokeislife/doculens-ai)** — Local RAG assistant for querying, analyzing, and comparing documents using LLMs and vector retrieval.
+- **[Clinical Laboratory Management System](https://github.com/Slowpokeislife/clinical-lab-management-system)** — Desktop application for managing laboratory operations, inventory, customers, and reporting with Python and SQLite.
+- **[Generative AI with Diffusion Models](https://github.com/Slowpokeislife/diffusion-models-from-scratch)** — Implementing and training diffusion models from scratch for image generation.
+- **[Facial Recognition & Attribute Analysis](https://github.com/Slowpokeislife/Facial-Recognition-and-Attribute-Analysis)** — Facial recognition and attribute classification using CNNs and transfer learning.
+- **[Real-Time Vehicle Analytics](https://github.com/Slowpokeislife/real-time-vehicle-analytics)** — Real-time video processing and vehicle analytics using computer vision and NVIDIA AI technologies.
+- **[Campfire Meetup Creator](https://github.com/Slowpokeislife/campfire-meetup-creator)** — Android application for creating and organizing Pokémon GO community meetups using structured event information.
+- **[ASL Vision](https://github.com/Slowpokeislife/asl-vision)** — American Sign Language recognition using computer vision, deep learning, and real-time webcam inference.
+- **[Deep RL Trading Agent](https://github.com/Slowpokeislife/Deep-RL-Trading-Agent)** — Reinforcement learning agent for algorithmic trading and financial decision-making.
+- **[House Purchase Decision ML](https://github.com/Slowpokeislife/house-purchase-decision-ml)** — Predictive modeling and machine learning for analyzing residential property purchase decisions.
+- **[Dog Identity Transfer Learning](https://github.com/Slowpokeislife/dog-identity-transfer-learning)** — Image classification using transfer learning to distinguish a specific dog from other animals.
+- **[Spam Detection NLP](https://github.com/Slowpokeislife/spam-detection-nlp)** — Natural language processing and supervised machine learning for SMS spam classification.
 
 *Want to know how I build things? Explore my [repositories](https://github.com/Slowpokeislife?tab=repositories) or reach me through the links above.*
