@@ -35,7 +35,7 @@
 ### A few projects
 
 - **[Classical Nahuatl Translation](https://github.com/Slowpokeislife/Traductor-nahuatl)** — Fine-tuning NLLB-200 (1.3B) for low-resource machine translation using PEFT techniques, including LoRA, LISA, and layer freezing.
-- **Código Azul** *(Private Project)* — Android emergency-alert system designed for a special education setting, using Firebase and Cloudflare for real-time notifications.
+- **[Código Azul](https://jorgeuc-portfolio.pages.dev/projects/codigo-azul-redesign)** *(Private Project)* — Android emergency-alert system designed for a special education setting, using Firebase and Cloudflare for real-time notifications.
 - **[FloodScope AI](https://github.com/Slowpokeislife/floodscope-ai)** — Satellite imagery analysis and deep learning for flood detection and disaster risk monitoring.
 - **[PokePonche Predict](https://github.com/Slowpokeislife/PokePonche-Predict)** — Machine learning for predicting Pokémon GO community event attendance using historical check-in data.
 - **[DocuLens AI](https://github.com/Slowpokeislife/doculens-ai)** — Local RAG assistant for querying, analyzing, and comparing documents using LLMs and vector retrieval.
